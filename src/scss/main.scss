@@ -1,0 +1,9 @@
+@import './components/citymap.scss';
+@import './components/infobar.scss';
+@import './components/toolbar.scss'; 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
